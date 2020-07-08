@@ -5,7 +5,7 @@ profile_pic: /assets/img/profile.jpg
 favicon: /assets/img/favicon.png
 copyright_name: 2020 Laura Bauman. Template design by Raghuveer S.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://baumanl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "laurab.blog" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
