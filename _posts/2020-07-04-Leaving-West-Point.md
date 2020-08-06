@@ -1,9 +1,9 @@
 ---
 title: Leaving West Point
-tags: Westpoint 
+tags: Westpoint, Transfer
 ---
 
-Almost exactly 3 years ago, I reported to the United States Military Academy (USMA) at West Point to begin my journey from civilian to Army officer. About 10 months ago, I decided against affirming and left USMA to complete my education at a civilian university. The purpose of this post is to give some insight into the factors I considered when making my decision to leave. When I was debating my decision I scoured the internet to find the stories of others who chose to leave. No two people have identical reasons for leaving or staying, but I hope my story can provide another perspective to those struggling with the decision. 
+Almost exactly 3 years ago, I reported to the United States Military Academy (USMA) at West Point to begin my journey from civilian to Army officer. About 10 months ago, I decided against affirming and left USMA to complete my education at a civilian university. The purpose of this post is to give some insight into the factors I considered when making my decision to leave. When I was debating my decision I scoured the internet to find the stories of others who chose to leave. No two people have identical reasons for leaving or staying, but I hope my story can provide another perspective to those struggling with the decision.
 
 **Table of Contents**
 - [[What is "Affirmation"?::#affirmation]]
