@@ -106,5 +106,6 @@ Some resources to get you started:
 
 If you made it this far, hats off to you. This article turned into a monster. The transfer application process is difficult, but manageable. Be diligent, be positive, and it will work out. If you have other questions feel free to reach out. 
 
-My e-mail is laurabauman12 [at] gmail [dot] com
-Or message me on [LinkedIn](https://www.linkedin.com/in/laura-bauman-060370177/).
+My e-mail is laurabauman12 [at] gmail [dot] com.
+
+Or shoot me a message on [LinkedIn](https://www.linkedin.com/in/laura-bauman-060370177/).
