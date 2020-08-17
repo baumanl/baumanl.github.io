@@ -1,6 +1,7 @@
 ---
 title: Transfer Tips
 tags: Westpoint Transfer
+linkpic: usma
 ---
 
 Applying to college as a transfer student (particularly one from a service academy) is, to put it frankly, straight up not a good time. It's time consuming, nerve-wracking, and expensive. The acceptance rates are typically even lower than the freshmen acceptance rates, yay! Since the experience is fresh in my brain, I figured I'd put together a collection of things I wish I'd known when I started this process. Cadets leave at many different points in the experience; in terms of transfer applications, the biggest potential difference is just whether you apply to other schools while still enrolled or if upi outprocess first. Differences can also arise depending on your class year, separation status, and academic standing. I tried to keep the advice relatively general, but it is strongly based on my own experience. I voluntarily outprocessed after 2 full years while in good standing before beginning the transfer process. (If interested about my decision process check out my post [Leaving West Point](https://laurab.blog/posts/Leaving-West-Point).) If possible, I would recommend applying to transfer before outprocessing because then you will have all your options before making your final decision.
