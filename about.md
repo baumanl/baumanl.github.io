@@ -21,7 +21,9 @@ I haven't quite decided what direction to take this blog but I would like it to 
 E-mail: laurabauman12 [at] gmail [dot] com
 
 Add me on LinkedIn or Twitter to get new post announcements!
+
 [LinkedIn](https://www.linkedin.com/in/laura-bauman-060370177/)
+
 [Twitter](https://www.linkedin.com/in/laura-bauman-060370177/) (brand new, but I plan on using it to announce new posts.)
 
 ---
