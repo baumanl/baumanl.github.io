@@ -24,7 +24,7 @@ Add me on LinkedIn or Twitter to get new post announcements!
 
 [LinkedIn](https://www.linkedin.com/in/laura-bauman-060370177/)
 
-[Twitter](https://www.linkedin.com/in/laura-bauman-060370177/) (brand new, but I plan on using it to announce new posts.)
+[Twitter](https://twitter.com/baumanl_12) (brand new, but I plan on using it to announce new posts.)
 
 ---
 
