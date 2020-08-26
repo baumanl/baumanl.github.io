@@ -3,13 +3,9 @@ title: Independent Learning
 tags: Self-Improvement Education CS
 ---
 
-{:#intro}
-### Intro
----
 From Fall 2019 to Fall 2020 I took a gap year after deciding to leave West Point. My main priority for the year was submitting my transfer applications. I also worked 35-45 hrs a week as a private tutor during the academic year. I still had a lot of free time to fill and I decided to use some of my newfound freedom and time to pursue my academic interests. Even though I was not actively enrolled in college, I felt it was important to maintain some level of intellectual activity. I also had complete freedom to direct my own course of study. I could let my curiousity run free. I want to share some of my favorite resources for independent sudy. This is a super short selection of the tools that I just happened to enjoy the most.
 
 **Table of Contents**
-- [[Intro::#intro]]
 - [[MIT OpenCourseWare::#mit]]
 - [[CodeChef::#codechef]]
 - [[OverTheWire::#otw]]
